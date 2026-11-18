@@ -1,0 +1,113 @@
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.Properties.Resources.resources
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.GenerateResource.Cache
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.SujiraEmailManager.resources
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HelpPage.resources
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.ResolveComReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HostMaker.resources
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\bin\Debug\Mail.dll
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\bin\Debug\Mail.xml
+C:\Users\김이정\Desktop\SujiraMailApplication\SujiraMailApplication\bin\Debug\S22.Imap.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.ResolveComReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HelpPage.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HostMaker.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.SujiraEmailManager.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.Properties.Resources.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.GenerateResource.Cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\bin\Debug\Mail.xml
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\bin\Debug\IMAP.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\SujiraMailApplication\SujiraMailApplication\bin\Debug\IMAP.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.ResolveComReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HelpPage.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HostMaker.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.SujiraEmailManager.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.Properties.Resources.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.GenerateResource.Cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\bin\Debug\Mail.xml
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220621SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.ResolveComReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HelpPage.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HostMaker.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.SujiraEmailManager.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.Properties.Resources.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.GenerateResource.Cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\bin\Debug\SimpleIMAP.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220627SujiraMailApplication\SujiraMailApplication\bin\Debug\SimpleIMAP.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\bin\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.ResolveComReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HelpPage.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.HostMaker.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.SujiraEmailManager.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.Properties.Resources.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.GenerateResource.Cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\bin\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220628SujiraMailApplication\SujiraMailApplication\obj\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\bin\Debug\SujiraMailApplication.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\bin\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\bin\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\bin\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\Interop.ADODB.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\Interop.CDO.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.ResolveComReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\SujiraMailApplication.HelpPage.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\SujiraMailApplication.HostMaker.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\SujiraMailApplication.SujiraEmailManager.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\SujiraMailApplication.Properties.Resources.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.GenerateResource.Cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220701SujiraMailApplication - 최종\SujiraMailApplication\obj\Debug\SujiraMailApplication.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\bin\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Debug\SujiraMailApplication.Properties.Resources.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Debug\SujiraMailApplication.csproj.GenerateResource.Cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Debug\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\bin\Release\SujiraMailApplication.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\bin\Release\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Release\SujiraMailApplication.Properties.Resources.resources
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Release\SujiraMailApplication.csproj.GenerateResource.Cache
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Release\SujiraMailApplication.dll
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Release\SujiraMailApplication.pdb
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\bin\Debug\SujiraMailApplication.exe
+C:\Users\김이정\Desktop\SujiraMailApplication Projects\20220704SujiraMailApplication-dll버전\SujiraMailApplication\obj\Debug\SujiraMailApplication.exe

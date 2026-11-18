@@ -1,0 +1,20 @@
+<root>
+  <app>SujiraSoft</app>
+  <datatype>xml</datatype>
+  <mail>
+    <to />
+    <from />
+    <subject />
+    <attachment />
+    <body />
+    <errmsg />
+  </mail>
+  <smtp create="">
+    <host />
+    <port />
+    <id />
+    <pw />
+    <send />
+    <errmsg />
+  </smtp>
+</root>

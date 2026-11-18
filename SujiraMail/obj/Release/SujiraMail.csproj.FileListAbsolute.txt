@@ -1,0 +1,13 @@
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\bin\Release\SujiraMail.dll
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\bin\Release\SujiraMail.pdb
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\bin\Release\PdfSharp.dll
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\bin\Release\FileCryptor.pdb
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\bin\Release\PdfSharp.pdb
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\bin\Release\de\PdfSharp.resources.dll
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\obj\Release\SujiraMail.csproj.AssemblyReference.cache
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\obj\Release\SujiraMail.Properties.Resources.resources
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\obj\Release\SujiraMail.csproj.GenerateResource.cache
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\obj\Release\SujiraMail.csproj.CoreCompileInputs.cache
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\obj\Release\SujiraMail.csproj.CopyComplete
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\obj\Release\SujiraMail.dll
+C:\Users\gudtk\Desktop\이직\포트폴리오\Osis\Osis.Mailer\SujiraMail\obj\Release\SujiraMail.pdb
