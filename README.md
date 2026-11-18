@@ -101,7 +101,7 @@ POP3는 서버에 저장된 메시지를 가져오는 데 초점을 두지만, I
 
 이러한 이유로 메일함 접근 프로토콜을 **IMAP으로 통일**하고 POP3를 지원 대상에서 제외했습니다.
 
-**참고 표준:** [RFC 1939 — POP3](https://www.rfc-editor.org/rfc/rfc1939) · [RFC 9051 — IMAP4rev2](https://www.rfc-editor.org/rfc/rfc9051) · [RFC 6409 — 메일 제출](https://www.rfc-editor.org/rfc/rfc6409)
+**참고 표준:** · [RFC 9051 — IMAP4rev2](https://www.rfc-editor.org/rfc/rfc9051) · [RFC 6409 — 메일 제출](https://www.rfc-editor.org/rfc/rfc6409)
 
 <br/>
 
