@@ -28,11 +28,21 @@
 |메일함 접근·관리|IMAP|지원|
 |메일 수신|POP3|미지원|
 
-### 2.2. SMTP 서버 설정
+### 2.2. 주요 기능
+
+|지원 기능 | 설명 |
+|---|---|
+| SMTP 메일 발송 | Gmail, 네이버, Daum(Hanmail 포함) 등 SMTP 서버를 통한 메일 발송 |
+| 파일 첨부 및 전송 | 메일 발송 시 첨부파일 포함 |
+| IMAP 메일함 관리 | 서버 메일함 접근 및 관리 |
+| 사용자 지정 SMTP | SMTP 서버 주소, 포트, 인증 정보 등을 직접 설정하여 발송 |
+
+
+### 2.3. SMTP 서버 설정
 
 |메일 서비스|SMTP 서버|포트|보안 연결|
 |-|-|-|-|
-|Gmail|`smtp.gmail.com`|`587`|TLS/STARTTLS|
+|Gmail|`smtp.gmail.com`|`587`|TLS|
 |네이버 메일|`smtp.naver.com`|`587` / `465`|TLS / SSL|
 |Daum 메일|`smtp.daum.net`|`465`|TLS / SSL|
 
